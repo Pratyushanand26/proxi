@@ -256,4 +256,3 @@ def delete_database(db_name: str) -> str:
 def list_services() -> str:
     result = cloud_infra.list_services()
     return str(result)
-
