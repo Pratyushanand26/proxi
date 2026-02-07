@@ -2,22 +2,6 @@
 
 ## Context-Aware Cloud Guardian - Policy-Enforced AI Agent System
 
----
-
-## Table of Contents
-
-1. [System Overview](#system-overview)
-2. [Architecture](#architecture)
-3. [Component Details](#component-details)
-4. [Implementation Steps](#implementation-steps)
-5. [Policy Configuration](#policy-configuration)
-6. [Extending the System](#extending-the-system)
-7. [Testing & Validation](#testing--validation)
-8. [Deployment Guide](#deployment-guide)
-9. [Troubleshooting](#troubleshooting)
-
----
-
 ## System Overview
 
 ### Purpose
